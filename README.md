@@ -6,4 +6,4 @@ This project can be useful for both general purposes and agricultural activities
 
 `Deployed Website (Dashboard View):`
 
-https://panel.000webhost.com/dashboard/dashboardwaterqualitymonitoringsystem/dashboard
+http://dashboardwaterqualitymonitoringsystem.000webhostapp.com/
